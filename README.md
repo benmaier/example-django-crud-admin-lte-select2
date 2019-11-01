@@ -1,4 +1,4 @@
-#Example-CRUD for django\_select2
+# Example-CRUD for django\_select2
 
 This is a minimal example to display erratic behavior of django-select2 in modal inline-forms in django-crud-adminlte
 

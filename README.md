@@ -28,6 +28,6 @@ make runserver
 
 navigate to
 
-* http://localhost:8000/crud/institution/update/1
+* http://localhost:8000/crud/institution/1/update
 
 

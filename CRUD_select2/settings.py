@@ -123,3 +123,7 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.2/howto/static-files/
 
 STATIC_URL = '/static/'
+
+SELECT2_JS = 'select2/js/select2.min.js'
+SELECT2_CSS = 'select2/css/select2.min.css'
+SELECT2_I18N_PATH = 'select2/js/i18n'

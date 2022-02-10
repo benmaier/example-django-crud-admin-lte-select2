@@ -1,4 +1,4 @@
-Django==2.2.6
+Django==2.2.27
 django-appconf==1.0.3
 django-crispy-forms==1.7.2
 -e git+git@github.com:oscarmlage/django-cruds-adminlte.git@a154def48f5de3886158ecd952cdba56e4ff19d2#egg=django_cruds_adminlte
